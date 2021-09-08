@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.coding.plugin">
+
+    <application>
+        <activity
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+            android:name="com.coding.plugin.PlaceholderActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
